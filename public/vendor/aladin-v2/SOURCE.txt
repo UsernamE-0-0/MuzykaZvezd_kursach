@@ -1,0 +1,7 @@
+Aladin Lite v2, official CDS source, commit 64fcc777dee6435e7d98534bb1d232259cb1e5c3.
+Source: https://github.com/cds-astro/aladin-lite/tree/64fcc777dee6435e7d98534bb1d232259cb1e5c3
+aladin.js concatenates the files in scripts/build.sh in their original order; version placeholder replaced with v2-64fcc77. No minification.
+Original source is included in source.zip; GPL-3.0 license is in LICENSE.
+aladin.css is copied unchanged from src/css/aladin.css.
+jquery.min.js is jQuery 3.6.0 from https://code.jquery.com/jquery-3.6.0.min.js, with its license header preserved.
+Local changes: DSS color URL points to IRSA mirror; obsolete remote survey registries disabled; callbacks initialized before the first view redraw.
